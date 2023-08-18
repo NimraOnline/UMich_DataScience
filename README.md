@@ -1,4 +1,4 @@
-# IntroDataScience
+# UMich DataScience
 Introductory data science projects in python 
 
 1. IntroDS1
